@@ -4,7 +4,7 @@
 - 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 - 🐍 Buscando pela primeira oportunidade como Dev Backend
-- 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO -- PRETENDO FAZER PÓS EM ENGENHARIA DE SOFTWARE!
+- 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO -- PRETENDO FAZER PÓS EM ENGENHARIA DE SOFTWARE
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z44CK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")](https://github.com/Z44CK/github-readme-stats)
 
