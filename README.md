@@ -8,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z44CK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")](https://github.com/Z44CK/github-readme-stats)
 ##
-Back-end | Databases
+Back-end | Databases | Software Development
 <div style="display:https://github.com/Z44CK"><br>
   <img align="center" alt="Z44CK-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Z44CK-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
