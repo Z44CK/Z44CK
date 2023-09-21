@@ -1,4 +1,4 @@
-### Olá! Sou Juliano Marangoni 👍
+### Olá! Sou Juliano Marangoni 👍!
 
 - 🔭 Atualmente trabalho como suporte técnico
 - 🌱 Estudando Python
