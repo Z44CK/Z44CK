@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como suporte técnico
 - 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
 - 🐍 Buscando pela primeira oportunidade como Dev Backend
 - 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO -- PRETENDO FAZER PÓS EM ENGENHARIA DE SOFTWARE
 
