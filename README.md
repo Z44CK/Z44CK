@@ -1,7 +1,7 @@
 ### Olá! Sou Juliano Marangoni 👍!
 
-- 🔭 Atualmente trabalho como suporte técnico
-- 🌱 Estudando Python
+- 🔭 Atualmente trabalho como Analista de Suporte!
+- 🌱 Estudando Java
 - 🐍 Buscando pela primeira oportunidade como Dev Backend
 - 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
 - 🚀 CURSANDO BACHARELADO EM ENGENHARIA DE SOFTWARE
