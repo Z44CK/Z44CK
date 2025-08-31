@@ -1,10 +1,9 @@
 ### Olá! Sou Juliano Marangoni 👍!
 
-- 🔭 Atualmente trabalho como Analista de Suporte!
-- 🌱 Estudando Java
-- 🐍 Buscando pela primeira oportunidade como Dev Backend
-- 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO
-- 🚀 CURSANDO BACHARELADO EM ENGENHARIA DE SOFTWARE
+- 🔭 Atualmente trabalho como QA at Condfy.
+- 🌱 Estudando Java.
+- 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO.
+- 🚀 CURSANDO BACHARELADO EM ENGENHARIA DE SOFTWARE.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z44CK&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")](https://github.com/Z44CK/github-readme-stats)
 ##
